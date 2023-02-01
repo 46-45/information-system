@@ -1,66 +1,53 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+Nama : Daniel Silalahi
+Kampus : Institut Teknologi Del
+Asal Daerah : Medan, Sumatera Utara
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+Akun Login :
+email : daniel@gmail
+password : 12345678
 
-## About Laravel
+![login](https://user-images.githubusercontent.com/90466465/216027415-9c16293b-6327-4b2f-a804-e9a6d9649db0.PNG)
+1. Login
+Pada bagian ini, kita dapat login untuk mengakses ke halaman utama
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+![dashboard](https://user-images.githubusercontent.com/90466465/216027561-1369764e-7371-4797-a3ab-b46d6328fbd7.PNG)
+2. Dashboard
+Pada bagian ini, kita menemukan berapa total jumlah mahasiswa, jumlah mahasiswa laki-laki dan perempuan
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+![data mahasiswa](https://user-images.githubusercontent.com/90466465/216027704-8f04db5e-a9aa-47e9-99e5-f5e4cd9d7cb2.PNG)
+3. Data Mahasiswa
+Pada bagian ini, terdapat data lengkap tentang mahasiswa tersebut
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+![edit data](https://user-images.githubusercontent.com/90466465/216027783-82554c45-a934-436f-b747-d263e2dbd633.PNG)
+4. Edit Data Mahasiswa
+Kita dapat mengedit data mahasiswa pada bagian ini
 
-## Learning Laravel
+![hapus data](https://user-images.githubusercontent.com/90466465/216027846-f57dae90-4cb9-4f35-91e0-4bb3125399c0.PNG)
+5. Hapus Data Mahasiswa
+Kita juga dapat menghapus data mahasiswa
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+![tambahkan siswa](https://user-images.githubusercontent.com/90466465/216027894-72891d50-bcd9-40fb-867c-787446d7ba99.PNG)
+6. Menambahkan Mahasiswa
+Kita dapat menambahkan mahasiswa dan menginput data data mahasiswa tersebut
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+![search](https://user-images.githubusercontent.com/90466465/216028065-b10eaba0-7f19-4611-a84a-49a303b0fe2a.PNG)
+7. Search
+Kita dapat menemukan mahasiswa dengan keyword
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+![export PDF](https://user-images.githubusercontent.com/90466465/216028144-ff0a042f-fed8-47f8-a92f-adc1930cff5e.PNG)
+8. Export PDF
+Ini fitur tambahan untuk mengeksport data semua mahasiswa
 
-## Laravel Sponsors
+Langkah Cloning 
+![image](https://user-images.githubusercontent.com/90466465/216028440-d702801b-74f0-4d24-92d0-cbc75ea7fd3d.png)
+1. Klik unduh kode
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
+![image](https://user-images.githubusercontent.com/90466465/216028504-0231830b-6a27-4148-883d-4c550d1c4caa.png)
+2. Copy url
 
-### Premium Partners
+3. Buka git bash/terminal
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[OP.GG](https://op.gg)**
-- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
-- **[Lendio](https://lendio.com)**
+4. Pastekan url tadi pada git bash/terminal
 
-## Contributing
+5. Enter
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
